@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Dataset folders
+Fruit And Vegetable Diseases Dataset/
+Resized_Fruit_And_Vegetable_Diseases_Dataset/
+dataset_split/
+
+# Model and data files
+apple_classifier_resnet18.pth
+Data/
+
+# Scripts, cache, and virtual environment folders
+Scripts/
+__pycache__/
+myenv/
